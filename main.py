@@ -9,5 +9,7 @@ def nova_funkcija():
 
 def nova_metoda(self):
     return "Ovo je nova metoda"
-    
+
+def nova_metoda2(self):
+    return "Ovo je nova metoda"
 #Ovo je moj komentar - Ante
